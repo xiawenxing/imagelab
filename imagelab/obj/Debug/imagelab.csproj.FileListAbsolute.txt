@@ -1,0 +1,10 @@
+E:\c#\imagelab\imagelab\bin\Debug\imagelab.exe.config
+E:\c#\imagelab\imagelab\bin\Debug\imagelab.exe
+E:\c#\imagelab\imagelab\bin\Debug\imagelab.pdb
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.csprojResolveAssemblyReference.cache
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.Form1.resources
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.Properties.Resources.resources
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.csproj.GenerateResource.cache
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.csproj.CoreCompileInputs.cache
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.exe
+E:\c#\imagelab\imagelab\obj\Debug\imagelab.pdb
